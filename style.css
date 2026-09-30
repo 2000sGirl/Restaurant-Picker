@@ -4,13 +4,13 @@
    A commit that says "Switch accent to blue" is a real commit.
    ========================================================== */
 :root {
-    --accent: #A8431A;        /* buttons, highlights (burnt orange). Try #8E2A2A (cranberry) or #5F6B25 (olive) */
-    --ink: #2B1D14;           /* main text (dark walnut) */
-    --muted: #7A6A5C;         /* secondary text (warm taupe) */
-    --paper: #FFFCF7;         /* the card (cream) */
-    --background: #F4ECE1;    /* the page behind the card (parchment) */
-    --line: #E6D9C8;          /* borders and rules (oat) */
-    --radius: 20px;            /* corner rounding, everywhere */
+    --accent: #EC4899;        /* buttons, highlights (vibrant bubblegum pink) */
+    --ink: #0F172A;           /* main text (deep slate) */
+    --muted: #64748B;         /* secondary text (cool slate) */
+    --paper: #FFFFFF;         /* the card (pure white) */
+    --background: #ECFEFF;    /* page background (soft cyan mist) */
+    --line: #A5F3FC;          /* borders and rules (soft pale cyan) */
+    --radius: 20px;            /* corner rounding */
     --font: "Segoe UI", system-ui, -apple-system, Helvetica, Arial, sans-serif;
 }
 
